@@ -7,7 +7,7 @@ body {
   align-items: center;
   font-family: "Times New Roman", Times, serif;
   margin: 0;
-  background-image: url(/img/Christmas.jpg);
+  background-image: url(./img/Christmas.jpg);
   background-size: cover;
 }
 
