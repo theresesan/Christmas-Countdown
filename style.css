@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  align-items: center;
+  font-family: "Times New Roman", Times, serif;
+  margin: 0;
+  background-image: url(/img/Christmas.jpg);
+  background-size: cover;
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 20%;
+  margin-left: 4%;
+}
+
+h1::first-letter {
+  color: red;
+  font-size: 60px;
+  margin-right: 3px;
+}
+
+.countdown-container {
+  width: 30%;
+  margin-top: 3%;
+  margin-left: 50px;
+  display: flex;
+  font-size: larger;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+span {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.container {
+  border: solid rgb(255, 0, 0);
+}
+
+.countdown-el {
+  text-align: center;
+}
