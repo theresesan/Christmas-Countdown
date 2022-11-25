@@ -1,4 +1,3 @@
-// DOM element style
 const style = document.createElement("style");
 style.textContent = `
   p {
