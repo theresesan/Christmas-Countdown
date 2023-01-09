@@ -17,7 +17,7 @@ const hoursEl = document.querySelector("#hours");
 const minsEl = document.querySelector("#mins");
 const secondsEl = document.querySelector("#seconds");
 
-const christmas = "24 Dec 2022";
+const christmas = "24 Dec 2023";
 
 const countdown = () => {
   // Using the date constructor
